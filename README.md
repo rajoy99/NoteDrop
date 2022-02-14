@@ -14,6 +14,6 @@ Features :
 
 Screenshots: 
 
-<img src=screenshot.png />
+![ScreenShot](screenshot.png)
 
 
