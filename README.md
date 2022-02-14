@@ -11,3 +11,7 @@ Features :
 - Minimalistic 
 - Cloud based 
 - Categorizing notes on the basis of importance 
+
+Screenshots: 
+
+
